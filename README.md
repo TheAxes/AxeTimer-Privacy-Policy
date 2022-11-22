@@ -34,8 +34,8 @@
 ## 4. This Privacy Policy doesn't answer my question. What should I do?
 
 #### You can reach us by the following methods:
-- Join our [Support Server](https://discord.gg/) on discord
-- Contact me on discord [discord Server](https://discord.gg/DgqWvb2zd2)
+- Join our [Support Server](https://discord.gg/BXMPhBDSjh) on discord
+- Contact me on discord [discord Server](https://discord.gg/BXMPhBDSjh)
 - Server invite invalid or channels locked ? You can contact me via my email address: theaxes@proton.me
 
 ## 5. How can we delete our entire data?
