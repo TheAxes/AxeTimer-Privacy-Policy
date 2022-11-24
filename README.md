@@ -1,7 +1,7 @@
 # AxeTimer-Privacy-Policy
 
 ## **AxeTimer's Privacy Policy**
-### By using Friday you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
+### By using AxeTimer you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
 
 ## 1. What does it store?
 
